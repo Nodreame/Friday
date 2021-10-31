@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "commonjs",
+        "outDir": "./dist",
+        "moduleResolution": "node",
+        "target": "ES6",
+        "experimentalDecorators": true,
+        "allowJs": false,
+        "strict": false,
+        "alwaysStrict": true,
+        "noImplicitReturns": true,
+        "noImplicitAny": false,
+        "noUnusedLocals": true,
+        "noUnusedParameters": false,
+        "removeComments": true,
+        "baseUrl": "./"
+    },
+    "include": ["./**/*"],
+    "exclude": []
+}
